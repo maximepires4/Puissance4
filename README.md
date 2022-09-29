@@ -1,5 +1,5 @@
-# Puissance 4
-[Puissance4Img](/src/main/resources/images/Title.png)
+![Puissance4Img](https://github.com/maximepires4/Puissance4/blob/master/src/main/resources/images/Title.png?raw=true)
+
 Puissance 4 written in Java with database and statistics.
 
 ## Features
